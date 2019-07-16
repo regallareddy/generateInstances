@@ -9,4 +9,8 @@ Remove all the deleted branches from the local - git fetch --prune
 Automatically delete the branches in local without running the command above - git config --global fetch.prune true
 
 To see what happend so far - 
-git log --online
+git log --oneline --decorate --graph -all
+
+##To create a alias for day to day command## - git config --global alias.st "status"
+##For testing## - git st
+##To see the list of aliases created## - git config --global --list
