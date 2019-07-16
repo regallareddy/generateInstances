@@ -15,3 +15,4 @@ git log --oneline --decorate --graph -all
 ##For testing## - git st
 ##To see the list of aliases created## - git config --global --list 
 to remove an alias - git config --global --unset <your alias name>
+to remove multiple aliases of same type - git config --global --unset-all <your alias name>
