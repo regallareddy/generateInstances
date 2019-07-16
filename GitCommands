@@ -7,3 +7,6 @@ git sha have 40 characters
 
 Remove all the deleted branches from the local - git fetch --prune
 Automatically delete the branches in local without running the command above - git config --global fetch.prune true
+
+To see what happend so far - 
+git log --online
