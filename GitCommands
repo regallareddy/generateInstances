@@ -4,3 +4,5 @@ git config --global user.email nri018@gmail.com
 
 
 git sha have 40 characters
+
+Remove all the deleted branches from the local - git fetch --prune
