@@ -1,3 +1,6 @@
 Git commands
 git config --global user.name "Naresh Regalla"
 git config --global user.email nri018@gmail.com
+
+
+git sha have 40 characters
