@@ -13,4 +13,4 @@ git log --oneline --decorate --graph -all
 
 ##To create a alias for day to day command## - git config --global alias.st "status"
 ##For testing## - git st
-##To see the list of aliases created## - git config --global --list
+##To see the list of aliases created## - git config --global --list 
