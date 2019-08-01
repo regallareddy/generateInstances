@@ -5,3 +5,5 @@ https://network.pivotal.io/
 Martin Fowler - Strangler Pattern
 
 Chris Richardson - API Gateway Pattern
+
+Blue Green Deployment - https://docs.cloudfoundry.org/devguide/deploy-apps/blue-green.html
